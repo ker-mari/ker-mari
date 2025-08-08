@@ -27,8 +27,8 @@
 </div>
 
 <br>
-<div align="center" style="font-weight: bold;">
-  <strong>I'm driven by curiosity across technology and creativity.</strong>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=I'm+driven+by+curiosity+across+technology+and+creativity." alt="Typing SVG" /></a>
 </div>
 
 <!--
@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ker-mari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 -->
-###
+
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY2YmJ3Yjg3eXRvc2MzZGpsemw3MXhkc3BxajM4cW1rMWNlMGFiaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dISk854tQqGKHFm88e/giphy.gif"  />
