@@ -28,7 +28,7 @@
 
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=I'm+driven+by+curiosity+across+technology+and+creativity." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&vCenter=true&width=435&lines=UI+that+kers%2C+UX+that+connects.;Every+pixel+matters." alt="Typing SVG" /></a>
 </div>
 
 <!--
