@@ -57,10 +57,10 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcng2eXNyMHZiNW52dGptMGJ1NHlxZ3ZldWJya2dtbDJnYXR5NjIyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Y3wKD3Ej4UG5IUyvx/giphy.gif"  />
+  <img width="1000" height="550" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZsMzh3dTZuYm52djVybWExNGRleWo4dGRoamlybjl5emJhMXl2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vNcxoz7L4xH8wOTI4o/giphy.gif"  />
+</div>
+
 </div>
 
 ###
